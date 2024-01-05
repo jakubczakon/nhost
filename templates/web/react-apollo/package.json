@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "dependencies": {
     "@apollo/client": "^3.4.16",
-    "@nhost/nhost-js": "^0.3.3",
+    "@nhost/nhost-js": "^1.6.0",
     "@nhost/react-apollo": "^2.0.6",
     "@nhost/react-auth": "^2.0.3",
     "@testing-library/jest-dom": "^5.11.4",
