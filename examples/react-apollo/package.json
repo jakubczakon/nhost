@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@nhost/react": "^0.2.0",
-    "@nhost/react-apollo": "^3.0.0",
+    "@nhost/react": "^0.3.0",
+    "@nhost/react-apollo": "^7.0.2",
     "@rsuite/icons": "^1.0.2",
     "jwt-decode": "^3.1.2",
     "react": "^17.0.2",
@@ -12,7 +12,7 @@
     "react-icons": "^4.3.1",
     "react-json-view": "^1.21.3",
     "react-router-dom": "^6.2.1",
-    "rsuite": "^5.6.2"
+    "rsuite": "^5.6.4"
   },
   "lib": "workspace:*",
   "scripts": {
